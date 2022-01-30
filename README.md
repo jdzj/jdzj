@@ -1,9 +1,7 @@
 ### Hi there 👋
 <h3>A junior developer in China</h3>
 
-[![Efei's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdzj)](https://github.com/jdzj/github-readme-stats)
-
-My blog: [微录阁](https://weiluge.jdzjw.com/archives.html)
+[![Efei's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdzj)](https://weiluge.com)
 
 Running data(2022):
 
