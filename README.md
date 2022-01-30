@@ -1,4 +1,13 @@
 ### Hi there 👋
+<h3>A junior developer in China</h3>
+
+[![Efei's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdzj)](https://github.com/jdzj/github-readme-stats)
+
+My blog: [微录阁](https://weiluge.jdzjw.com/archives.html)
+
+Running data(2022):
+
+<img src="https://raw.githubusercontent.com/jdzj/run/master/assets/github_2022.svg">
 
 <!--
 **jdzj/jdzj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
