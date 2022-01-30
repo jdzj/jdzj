@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h3>A junior developer in China</h3>
 
-[![Efei's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdzj)](https://weiluge.com){target="_blank"}
+[![Efei's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdzj)](https://weiluge.com)
 
 Running data(2022):
 
