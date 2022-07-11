@@ -3,9 +3,7 @@
 
 [![Efei's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdzj)](https://weiluge.com)
 
-Queyu:
-
-<script src="https://weiluge.jdzjw.com/queyu/app/class/ajax.php?act=new&id=7&p=200&r=https://weiluge.jdzjw.com/log/"></script>
+Good luck！
 
 <!--
 **jdzj/jdzj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
