@@ -3,9 +3,9 @@
 
 [![Efei's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdzj)](https://weiluge.com)
 
-Running data(2022):
+Queyu:
 
-<img src="https://raw.githubusercontent.com/jdzj/run/master/assets/github_2022.svg">
+<script src="https://weiluge.jdzjw.com/queyu/app/class/ajax.php?act=new&id=7&p=200&r=https://weiluge.jdzjw.com/log/"></script>
 
 <!--
 **jdzj/jdzj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
